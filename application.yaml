@@ -1,3 +1,8 @@
+ead:
+  serviceRegistry:
+    username: serviceregistry
+    password: '96082553'
+
 eureka:
   client:
     serviceUrl:
