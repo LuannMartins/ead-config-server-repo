@@ -1,10 +1,10 @@
-ead:
-  serviceRegistry:
-    username: serviceregistry
-    password: '96082553'
-  configServer:
-    username: configserver
-    password: '81600833'
+# ead:
+#   serviceRegistry:
+#     username: serviceregistry
+#     password: '96082553'
+#   configServer:
+#     username: configserver
+#     password: '81600833'
 
 eureka:
   client:
