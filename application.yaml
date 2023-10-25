@@ -1,7 +1,7 @@
-# ead:
-#   auth:
-#     jwtSecret: t7w!z%C*F-JaNdRgUkXp2s5v8x/A?D(G+KbPeShVmYq3t6w9z$B&E)H@McQfTjWn
-#     jwtExpirationMs: 14400000
+ead:
+  auth:
+    jwtSecret: t7w!z%C*F-JaNdRgUkXp2s5v8x/A?D(G+KbPeShVmYq3t6w9z$B&E)H@McQfTjWn
+    jwtExpirationMs: 14400000
   # serviceRegistry:
   #   username: serviceregistry
   #   password: '96082553'
